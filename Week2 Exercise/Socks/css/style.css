@@ -1,0 +1,21 @@
+#breadcrumbs ul {
+    list-style: none;
+    padding: 10px;
+    background-color: #eee;
+}
+
+#breadcrumbs ul li {
+    display: inline;
+    margin-right: 5px
+}
+
+.product-title {
+    text-align: center;
+    color: blue;
+}
+
+.product-title img {
+    display: block;
+    margin: 0 auto;
+
+}
