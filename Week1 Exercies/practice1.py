@@ -32,3 +32,10 @@ def myfunc():
 myfunc()
 
 print("Python is " + y)
+
+x = 5
+print(type(x))
+
+x = "May "
+y = "John"
+print(x + y)
