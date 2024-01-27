@@ -13,3 +13,7 @@ elif d == c:
     print("d and c are equal")
 else:
     print("c is greater than d")
+
+e = 200
+f = 67
+if e >f: print("e is greater than f")
