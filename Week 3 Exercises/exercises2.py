@@ -17,3 +17,7 @@ else:
 e = 200
 f = 67
 if e >f: print("e is greater than f")
+
+a = 200
+b = 34
+print("a") if a >b else print ("=") if a==b else print("b")
