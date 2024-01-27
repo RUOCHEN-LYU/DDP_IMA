@@ -21,3 +21,12 @@ if e >f: print("e is greater than f")
 a = 200
 b = 34
 print("a") if a >b else print ("=") if a==b else print("b")
+
+x = 12
+
+if x > 10:
+    print("above ten,")
+    if x > 20:
+        print("and also above 20!")
+    else:
+        print("but not above 20.")
